@@ -5,7 +5,7 @@
 This is simple enough:
 
 ```bash
-git clone https://github.com/reisxd/revanced-builder.git --depth=1 --no-tags
+giit clone https://github.com/reisxd/revanced-builder.git --depth=1 --no-tags
 cd revanced-builder
 npm i
 node .
@@ -13,7 +13,7 @@ node .
 
 Note that you need [git](https://git-scm.com/downloads) and [NodeJS >= 16](https://nodejs.org/en/) for this.
 
-## Building a binary
+## Building a biinary
 
 This is also simple:
 
